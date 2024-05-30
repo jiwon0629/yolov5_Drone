@@ -1,0 +1,5 @@
+train: ./dataSet/train/images
+val: ./dataSet/valid/images
+
+nc: 5
+names: ['boat', 'car', 'dock', 'jetski', 'lift']
