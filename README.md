@@ -1,5 +1,8 @@
 # yolov5  
-## 드론 영상에서 객체 인식 
+ - 드론 영상에서 객체 인식
+## Language  
+ - <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+ 
 I. 개발환경 만들기 
 1. Pc에서 폴더 만들기
     실습환경에 따라 폴더 이름이 다를수 있어요.   
