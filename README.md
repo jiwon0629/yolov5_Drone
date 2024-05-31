@@ -1,7 +1,7 @@
 # yolov5  
  - 드론 영상에서 객체 인식
 ## Language  
- - <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+ - <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="57" height="57" /></div>  
  
 I. 개발환경 만들기 
 1. Pc에서 폴더 만들기
